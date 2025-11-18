@@ -5,12 +5,13 @@ public class HistorialCompra {
     /// id usuario 
     /// nomrbre usuario
     /// id minimarket
-    /// // telefono usuario
+    /// telefono usuario
     /// nombre minimarket
     /// direccion minimarket
     /// region
     /// comuna
     /// listado de productos comprados
     /// fecha de compra
-    /// monto total
+    /// monto total 
+    /// metodo de pago string
 }
